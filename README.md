@@ -1,4 +1,4 @@
-### RMI Calculator (Java)
+### 🔢 RMI Calculator
 
 This project is a simple **Remote Method Invocation (RMI)** application developed as part of the *Distributed Information Systems* module.
 
